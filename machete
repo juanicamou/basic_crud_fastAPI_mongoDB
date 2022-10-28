@@ -1,2 +1,0 @@
-uvicorn app:app --reload
-conda create --name crud_mongo_venv python=3
